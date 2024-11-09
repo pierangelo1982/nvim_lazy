@@ -8,3 +8,5 @@ inspired by:
 
 TODO
 lazygit - vedere se val la pena
+
+# test
